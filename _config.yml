@@ -3,13 +3,13 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: ""
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Plotting and Programming with Python"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: susan.mcclatchy@jax.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
