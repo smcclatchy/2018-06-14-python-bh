@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "The Jackson Laboratory"
-address: "Bioinformatics Training Room, 600 Main Street, Bar Harbor, Maine"
+address: "Bioinformatics Training Room 1540, 600 Main Street, Bar Harbor, Maine"
 country: "us"
 language: "en"
 latlng: "44.365646, -68.197153"
