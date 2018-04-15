@@ -95,6 +95,7 @@ or
 <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 JAX employees can locate the bioinformatics training room in building 1, unit 5 on
 this <a href="https://myjax-p.jax.org/Facilities/engineering/GeneralMap/rl_locator_map.pdf">campus map</a>.
+Visitors should bring photo ID and meet at the visitor entrance by 8:30am.
 </p>
 {% endif %}
 
@@ -207,19 +208,25 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <tr> <td>13:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/08-data-frames/">Pandas DataFrames</a></td> </tr>
 <tr> <td>14:30</td>  <td>Coffee</td> </tr>
 <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/09-plotting/">Plotting</a></td> </tr>
-<tr> <td>15:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>
 <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
 </table>
 </div>
 <div class="col-md-6">
 <h3>Friday, June 15</h3>
 <table class="table table-striped">
-<tr> <td>09:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a></td> </tr>
-<tr> <td>10:00</td>  <td><a href="https://github.com/narayananr/Python_SWC_Workshop/blob/master/Publication_Quality_Graphics.ipynb">Publication Quality Graphics</a> </td> </tr>
-<tr> <td>10:00</td>  <td><a href="https://raw.githubusercontent.com/narayananr/Python_SWC_Workshop/master/Attie_Liver_CC_Founders_EMASE_10k_counts.tsv">Get the data here or run exp_data_url = 'http://bit.ly/2FUEwxW'</a> </td> </tr>
+<tr> <td>09:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>
+<tr> <td>09:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/12-for-loops/">For Loops</a></td> </tr>
+<tr> <td>10:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/13-looping-data-sets/">Looping Over Data Sets</a> </td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td><a href="https://github.com/narayananr/Python_SWC_Workshop/blob/master/Publication_Quality_Graphics.ipynb">Publication Quality Graphics</a> </td> </tr>
-<tr> <td>11:30</td>  <td>End</td> </tr>
+<tr> <td>11:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a> </td> </tr>
+<tr> <td>12:00</td>  <td>Lunch break</td> </tr>
+<tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/15-scope/">Variable Scope</a></td> </tr>
+<tr> <td>13:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/17-conditionals/">Conditionals</a></td> </tr>
+<tr> <td>14:30</td>  <td>Coffee</td> </tr>
+<tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/18-style/">Programming Style
+</a></td> </tr>
+<tr> <td>15:15</td>  <td>Wrap-up</td> </tr>
+<tr> <td>15:30</td>  <td>End</td> </tr>
 </table>
 </div>
 </div>
