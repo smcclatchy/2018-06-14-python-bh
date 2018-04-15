@@ -6,12 +6,12 @@ address: "Bioinformatics Training Room, 600 Main Street, Bar Harbor, Maine"
 country: "us"
 language: "en"
 latlng: "44.365646, -68.197153"
-humandate: "June 14-15, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-06-14     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-06-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["TBD"]
-helper: ["TBD"]
+humandate: "June 14-15, 2018"
+humantime: "9:00 am - 4:30 pm"
+startdate: 2018-06-14
+enddate: 2018-06-15
+instructor: ["Georgi Kolishovski", "Sue McClatchy"]
+helper: ["Selcan Aydin", "Daniel Alfonsetti"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:
 eventbrite: 44045876402
