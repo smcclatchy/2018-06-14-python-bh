@@ -10,8 +10,8 @@ humandate: "June 14-15, 2018"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2018-06-14
 enddate: 2018-06-15
-instructor: ["Georgi Kolishovski", "Sue McClatchy"]
-helper: ["Selcan Aydin", "Daniel Alfonsetti"]
+instructor: ["Georgi Kolishovski", "Sue McClatchy", "Glen Beane"]
+helper: ["Selcan Aydin"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:
 eventbrite: 44045876402
