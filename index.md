@@ -13,7 +13,7 @@ enddate: 2018-06-15
 instructor: ["Georgi Kolishovski", "Sue McClatchy", "Glen Beane"]
 helper: ["Selcan Aydin"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:
+collaborative_notes: http://pad.software-carpentry.org/2018-06-14-python-bh
 eventbrite: 44045876402
 ---
 
